@@ -1,0 +1,426 @@
+{
+  "techShop": {
+    "products": [
+      {
+        "id": 1,
+        "productName": "Smartphone",
+        "price": 699.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 2,
+        "productName": "Laptop",
+        "price": 1099.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 3,
+        "productName": "Smartwatch",
+        "price": 299.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 4,
+        "productName": "Wireless Earbuds",
+        "price": 149.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 5,
+        "productName": "Tablet",
+        "price": 499.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 6,
+        "productName": "Gaming Console",
+        "price": 499.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 7,
+        "productName": "External Hard Drive",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 8,
+        "productName": "4K Monitor",
+        "price": 349.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 9,
+        "productName": "Bluetooth Speaker",
+        "price": 79.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 10,
+        "productName": "Mechanical Keyboard",
+        "price": 129.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 11,
+        "productName": "Wireless Mouse",
+        "price": 59.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 12,
+        "productName": "Smart Home Hub",
+        "price": 199.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 13,
+        "productName": "VR Headset",
+        "price": 399.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 14,
+        "productName": "Portable Charger",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 15,
+        "productName": "Action Camera",
+        "price": 249.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 16,
+        "productName": "Drone",
+        "price": 899.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 17,
+        "productName": "Smart Light Bulb",
+        "price": 29.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 18,
+        "productName": "Fitness Tracker",
+        "price": 99.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 19,
+        "productName": "E-Reader",
+        "price": 129.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 20,
+        "productName": "Bluetooth Headphones",
+        "price": 199.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 21,
+        "productName": "Desktop PC",
+        "price": 1199.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 22,
+        "productName": "Router",
+        "price": 149.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 23,
+        "productName": "Smart Doorbell",
+        "price": 199.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 24,
+        "productName": "Security Camera",
+        "price": 149.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 25,
+        "productName": "USB Flash Drive",
+        "price": 19.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 26,
+        "productName": "Webcam",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 27,
+        "productName": "Microphone",
+        "price": 129.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 28,
+        "productName": "Graphic Tablet",
+        "price": 249.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 29,
+        "productName": "Portable Speaker",
+        "price": 99.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 30,
+        "productName": "Smart Thermostat",
+        "price": 229.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 31,
+        "productName": "Streaming Device",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 32,
+        "productName": "Smart Plug",
+        "price": 24.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 33,
+        "productName": "Wireless Charger",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 34,
+        "productName": "Electric Scooter",
+        "price": 499.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 35,
+        "productName": "Digital Photo Frame",
+        "price": 129.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 36,
+        "productName": "3D Printer",
+        "price": 599.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 37,
+        "productName": "Noise Cancelling Headphones",
+        "price": 299.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 38,
+        "productName": "Smart Lock",
+        "price": 199.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 39,
+        "productName": "Projector",
+        "price": 499.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 40,
+        "productName": "WiFi Extender",
+        "price": 79.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 41,
+        "productName": "Portable SSD",
+        "price": 149.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 42,
+        "productName": "Wireless Keyboard",
+        "price": 79.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 43,
+        "productName": "Wireless Headphones",
+        "price": 199.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 44,
+        "productName": "Fitness Watch",
+        "price": 149.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 45,
+        "productName": "Desk Lamp",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 46,
+        "productName": "Robot Vacuum",
+        "price": 299.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 47,
+        "productName": "Cordless Vacuum Cleaner",
+        "price": 199.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 48,
+        "productName": "Digital Camera",
+        "price": 799.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 49,
+        "productName": "Printer",
+        "price": 199.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 50,
+        "productName": "Home Theater System",
+        "price": 899.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 51,
+        "productName": "Video Doorbell",
+        "price": 299.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 52,
+        "productName": "Kitchen Appliance Set",
+        "price": 699.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 53,
+        "productName": "Smart Scale",
+        "price": 49.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 54,
+        "productName": "Electric Toothbrush",
+        "price": 79.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 55,
+        "productName": "Air Purifier",
+        "price": 199.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 56,
+        "productName": "Portable Air Conditioner",
+        "price": 399.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 57,
+        "productName": "Robot Lawn Mower",
+        "price": 999.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 58,
+        "productName": "Smart Refrigerator",
+        "price": 1999.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 59,
+        "productName": "Digital Picture Frame",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 60,
+        "productName": "Gaming Chair",
+        "price": 299.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 61,
+        "productName": "Standing Desk",
+        "price": 499.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 62,
+        "productName": "Office Chair",
+        "price": 199.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 63,
+        "productName": "Bluetooth Earbuds",
+        "price": 99.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 64,
+        "productName": "Wireless Security Camera",
+        "price": 149.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 65,
+        "productName": "Coffee Maker",
+        "price": 79.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 66,
+        "productName": "Blender",
+        "price": 59.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 67,
+        "productName": "Toaster",
+        "price": 39.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 68,
+        "productName": "Juicer",
+        "price": 89.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 69,
+        "productName": "Microwave Oven",
+        "price": 129.99,
+        "image": "https://via.placeholder.com/150x150"
+      },
+      {
+        "id": 70,
+        "productName": "Vacuum Cleaner",
+        "price": 149.99,
+        "image": "https://via.placeholder.com/150x150"
+      }
+    ]
+  }
+}
